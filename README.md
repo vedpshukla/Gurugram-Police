@@ -43,7 +43,7 @@ Step 1 - Cloning Black-Info on your linux system.
 
 In order to download Black-Info simply clone the github repository. Below is the command which you can use in order to clone Black-Info repository.
 ```
-git clone https://github.com/vedpshukla/Black-Info.git
+git clone https://github.com/vedpshukla/Gurugram-Police.git
 ```
 
 Step 2 - Make sure python and python-pip is installed on your system.
