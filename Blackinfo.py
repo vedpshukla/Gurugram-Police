@@ -21,7 +21,6 @@ print(colored("""
 
 
 """, "red"))
-print(colored("Coded By: Ark-Anu", "blue"))
 print(colored("Coded By: PR0_D3V1L", "blue"))
 print()
 print(colored("Description:", "red"))
